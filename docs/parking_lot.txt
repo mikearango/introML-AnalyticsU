@@ -1,1 +1,4 @@
 https://mybinder.org/
+https://github.com/WillKoehrsen/machine-learning-project-walkthrough/blob/master/hw_assignment.pdf
+http://www.nyc.gov/html/gbee/html/plan/ll84_scores.shtml
+https://towardsdatascience.com/a-complete-machine-learning-walk-through-in-python-part-one-c62152f39420
